@@ -1,4 +1,5 @@
 // npm install digital-link.js xlsx
+//alternatively clone  https://github.com/evrythng/digital-link.js and just npm install xlsx
 
 const {DigitalLink,Utils} = require('digital-link.js');
 
