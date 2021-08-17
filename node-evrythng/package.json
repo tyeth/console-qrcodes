@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "digital-link.js": "^1.2.2",
+    "xlsx": "^0.17.0"
+  }
+}
